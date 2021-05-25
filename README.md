@@ -10,29 +10,8 @@ Imag 01
 
 ### E o Codigo para busca a função ficara assim como segue abaixo:
 
-quotation.monthlyAmountOfSecurityCyber = monthlyAmountOfSecurityCyber;
 
-  jsreport.serverUrl =
-    'https://....O local do seu templete no JSReport....;
-
-  const request = {
-    template: {
-      name: `nome01-${removeDiacritics(
-        String(company.name?.toLowerCase().replaceAll(' ', ''))
-      )}-${quotation.proposalNumber}`,
-      shortid: 'l1DbOPsN5',
-      recipe: 'chrome-pdf',
-    },
-    data: {
-      company,
-      quotation,
-      discountValueCloud,
-      currentDate: moment.utc(moment.utc()).local().format('DD/MM/YYYY'),
-    },
-  };
-OBS: 
-- nome01 = nome da empresa que esta fornecendo o orçamento!
-
+OBS: - nome01 = nome da empresa que esta fornecendo o orçamento!
 Imag 02
 
 ## No Arquivo: -> removeDiacritics.ts
