@@ -16,7 +16,7 @@ import { removeDiacritics } from '~/utils/removeDiacritics'.
 
 ### E o Codigo para busca a função ficara assim como segue abaixo:
 <h1 align="center">
-    <img src="./img/.png" />
+    <img src="./img/02.png" />
 </h1>
 
 OBS: - nome01 = nome da empresa que esta fornecendo o orçamento.
