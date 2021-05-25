@@ -30,6 +30,8 @@ Usar o codigo que esta disponivel Aquivo: removeDiacritics.ts
     <img src="./img/04.png" />
 </h1>
 
-E um codigo grande, mais ira deixa tudo bem organizado para altera o arquivo PDF.
+E um codigo grande, mais ira deixa tudo bem organizado dentro da pasta SRC deste repositorio para altera o arquivo PDF.
 
 - Imag 04
+
+### Espero ter ajudados
